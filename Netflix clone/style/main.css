@@ -57,13 +57,13 @@ header nav a:hover{
 .filme-principal .descricao{
     margin-top: 10px;
     margin-bottom: 20px;
-    
+    width: 50%;
     line-height: 150%;
    
 }
 
 .titulo {
-    margin-top: 30%;
+    margin-top: 20%;
     font-size: 40px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -75,6 +75,8 @@ header nav a:hover{
     padding: 20px, 30px;
     margin-right: 15px;
     font-size: 12px;
+    width: 150px;
+    height: 50px;
 
     cursor:pointer;
     transition: .3s ease-all;
@@ -104,4 +106,8 @@ header nav a:hover{
     height: 100%;
     width: 100%;
     display: 100%;
+}
+
+.carrossel-filmes {
+    margin-top: 10px;
 }
