@@ -72,7 +72,7 @@ header nav a:hover{
     background-color: rgba(0, 0, 0, 50%);
     border: none;
     color: white;
-    padding: 15px,30px;
+    padding: 20px, 30px;
     margin-right: 15px;
     font-size: 12px;
 
@@ -98,4 +98,10 @@ header nav a:hover{
 .filme-principal .container{
  width: 60%;
 
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: 100%;
 }
